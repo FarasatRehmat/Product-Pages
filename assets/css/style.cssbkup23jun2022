@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Port+Lligat+Sans&family=Rubik:wght@400;500;600;700&display=swap');
+
+body{
+
+    margin: 0px;
+
+    padding: 0px;
+
+}
+
+ 
+
+
+
+
+
+/* ====== Header ======= */
+
+
+
+
+
+p , span , h1 , h2 , h3 , h4 , h5 , h6 , .fab , .fas{
+
+    color: #000 !important;
+
+}
+
+
+
+.border {
+
+    border: 1px solid transparent !important;
+
+}
+
+header .navbar .navbar-toggler{
+
+    background-color: #fff ;
+
+}
+
+header .navbar .navbar-toggler span i{
+
+    font-size: 30px;
+
+}
+
+header .navbar .navbar-toggler span{
+
+    color: white;
+
+}
+
+
+
+
+
+header .navbar .nav-link{
+
+    color: white;
+
+    font-weight: 500;
+
+    border-radius: 50px;
+
+    background-color:#25D366 ;
+
+    font-size: 18px;
+
+}
+
+header .navbar .nav-link .fab{
+
+    font-size: 30px;
+
+    color: white !important;
+
+}
+
+
+
+/* ====== Main ======= */
+
+
+
+/* ---- New Tyres ---- */
+
+
+
+ .tyre-name{
+
+    font-size: 40px;
+
+    font-weight: 800;
+
+}
+
+
+
+.new-tyres .img-slider .nav-tabs .nav-link{
+
+    border: 1px solid #fff ;
+
+    margin: 5px;
+
+    border-radius: 4px;
+
+    opacity: .5;
+
+}
+
+.new-tyres .img-slider .nav-tabs .nav-link.active{
+
+    opacity: 1;
+
+    border: 2px solid #fff ;
+
+}
+
+
+
+/* ----- Testimonials ----- */
+
+
+
+ td,  th {
+
+    border: 1px solid #dddddd;
+
+    text-align: left;
+
+    padding: 8px;
+
+}
+
+td b{
+
+    font-size: 15px;
+
+}
+
+td {
+
+    font-size: 12px;
+
+}
+
+
+
+.accordion-item {
+
+ border: 1px solid transparent !important;
+
+}
+
+
+
+.accordion-body p{
+
+    font-size: 12px;
+
+}
+
+.accordion-body ul li {
+
+    font-size: 12px;
+
+}
+
+.accordion-body label{
+
+    font-size: 14px;
+
+}
+
+
+
+.accordion-body .accordion-item b{
+
+    font-size: 14px;
+
+} 
+
+ .accordion-button{
+
+    color: #000 !important;
+
+    background-color: #fff  !important;
+
+    box-shadow: inset 0 -1px 0 transparent !important;
+
+}
+
+.accordion-button::after {
+
+ background-image: url('../media/arrow-down.png') !important;    
+
+}
+
+
+
+/* ------- Why Section ------ */
+
+
+
+@media screen and (min-width:767px) and (max-width:1199px) {
+
+    .why .why-info {
+
+        height: 100% !important;
+
+    }
+
+}
+
+
+
+.why .why-info {
+
+    
+
+    transition: 1s;
+
+}
+
+.why .why-info:hover{
+
+    transform: translate(0px , -5px);
+
+}
+
+.why .why-info i{
+
+    font-size: 40px;
+
+    color: #fff ;
+
+}
+
+
+
+/* ------- Process ------- */
+
+
+
+.process .col-md-3{
+
+    border-left: 1px solid transparent !important;
+
+    border-right: 1px solid transparent !important;
+
+}
+
+.process .process-info:hover{
+
+    transform: scale(1.02);
+
+    transition: .5s;
+
+}
+
+.process .process-info .d-flex{
+
+    color: #fff ;
+
+    
+
+}
+
+.process .process-icon i{
+
+font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
